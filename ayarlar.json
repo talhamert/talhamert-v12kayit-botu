@@ -1,0 +1,22 @@
+{
+  "token": "TOKEN",
+  "prefix": "!", 
+  "erkekkayitkomut": "erkek",
+  "erkekrolid": "732496075386126387",
+  "kayityetkili": "732496075394646048",
+  "kadinrolid": "732496075386126386",
+  "yetkihatamsg": "Bu komutu sadece kayıt yetkilileri kullanabilir.",
+  "hatalikullanimerkek": " Eksik veya hatalı kullanım! !erkek <Üye> <İsim> <Yaş> şeklinde kullanınız.",
+  "isimtaslak": "*yaş* | *isim*",
+  "erkekbasarili": "Başarıyla kayıt edilmiştir.",
+  "kadinbasarili": "Başarıyla kayıt edilmiştir.",
+  "hatalikullanimkadin": " Eksik veya hatalı kullanım! !kız <Üye> <İsim> <Yaş> şeklinde kullanınız.",
+  "kadinkayitkomut": "kız",
+  "saykullanim": "say",
+  "tag": "",
+  "unregisterkomut": "unregister",
+  "hataliunreg": "Eksik veya hatalı kullanım! !unregister <Üye> şeklinde kullanınız",
+  "unregbasarili": " Başarıyla unregister rolü verilmiştir.",
+  "hgkanal": "735845032619147264",
+  "hgmsg": " *katilantag* aramıza katıldı! \n  Onunla birlikte *toplamüye* kişi olduk!\n Hesap Oluşturma Tarihi : *tarih* \n *yetkiliroltag* rolündeki yetkililer sizinle ilgilenecektir."
+}
